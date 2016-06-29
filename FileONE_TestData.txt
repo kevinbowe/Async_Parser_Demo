@@ -1,0 +1,12 @@
+Write a function that takes a source directory path, 
+a search string, and a destination filename. The 
+function should then open all of the files in the given 
+directory in parallel (using parallization technique of 
+your choice), find lines that have the search text 
+in them, and extract and output all lines with that 
+search text in a file with the given destination filename. 
+At the end of execution, the function should output the 
+number of files it processed, the number of lines it found 
+the search text in, and the number of occurrences of that search 
+term (don't assume once per line).
+
